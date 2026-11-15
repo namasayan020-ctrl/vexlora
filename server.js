@@ -12,7 +12,7 @@ let transactions = new Set();
 // FAMPAY & GMAIL CONFIG
 const FAM_UPI = "9233039667@fam";
 const GMAIL_USER = "nepalnama1990@gmail.com";
-const GMAIL_APP_PASS = process.env.GMAIL_APP_PASS || "wanm beti bttn eegp";
+const GMAIL_APP_PASS = process.env.GMAIL_APP_PASS || "viqd wfbf ygfa ioaz";
 
 // INDIAN SMART PANEL CONFIG
 const SMM_API_URL = "https://indiansmartpanel.com/api/v2";
